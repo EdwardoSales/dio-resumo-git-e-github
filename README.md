@@ -14,6 +14,7 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamneto de 
 
 ---
 Git init
+---
 Git add
 ---
 
